@@ -1,4 +1,4 @@
-# IDOR_Downloads - CPTS
+# IDOR_Downloads - CPTS - Web Attacks
 
 Este script ayuda a solucionar Enumeración masiva de IDOR de Ataques WEB (Web Attacks) de HTB Academy
 
